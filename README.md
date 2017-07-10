@@ -1,2 +1,4 @@
 # RobotArm-2017
-Stuyvesant Science olympiad, robot arm control code.
+Stuyvesant Science Olympiad - Robot arm event
+#### Objective: 
+Pick up pennies in designated locations around a target board. 
